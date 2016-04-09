@@ -1,0 +1,22 @@
+[
+  {
+    "name": "show_inventory",
+    "link": "show"
+  },
+  {
+    "name": "search",
+    "link": "search"
+  },
+  {
+    "name": "buy",
+    "link": "buy"
+  },
+  {
+    "name": "shopping cart",
+    "link": "cart"
+  },
+  {
+    "name": "checkout",
+    "link": "checkout"
+  }
+]

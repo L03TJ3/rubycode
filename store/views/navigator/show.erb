@@ -1,0 +1,7 @@
+<h2>This is our inventory</h2>
+<% @inventory.each_with_index do |navi, i| %>
+  <p><%= navi[:name] %> ---- id) <%= navi[:id] %> ---- price) $<%= navi[:price] %> ---- amount) <%= navi[:quantity] %></p>
+<% end %>
+
+<br  />
+<a href="/navigator">[Back]</a>

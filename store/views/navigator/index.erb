@@ -1,0 +1,7 @@
+<h2>What do you like to do</h2>
+<% @navigator.each_with_index do |navi, i| %>
+  <h3><a href="/navigator/<%= navi[:link] %>"><%= navi[:name] %></a></h3>
+<% end %>
+
+<br  />
+<a href="/navigator/manager">[Manager]</a>

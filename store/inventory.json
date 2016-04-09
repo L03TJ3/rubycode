@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Drinks : Heineken six-pack     ",
+    "id": 1,
+    "price": 6.5,
+    "quantity": 500
+  },
+  {
+    "name": "Drinks : Cola six-pack         ",
+    "id": 2,
+    "price": 5.0,
+    "quantity": 500
+  },
+  {
+    "name": "Drinks : Red bull four-pack    ",
+    "id": 3,
+    "price": 4.5,
+    "quantity": 500
+  },
+  {
+    "name": "Cigarettes : Marlboro medium   ",
+    "id": 4,
+    "price": 6.0,
+    "quantity": 500
+  },
+  {
+    "name": "Cigarettes : Lucky strike XXL  ",
+    "id": 5,
+    "price": 7.5,
+    "quantity": 500
+  },
+  {
+    "name": "Cigarettes : Camel light       ",
+    "id": 6,
+    "price": 5.8,
+    "quantity": 500
+  },
+  {
+    "name": "Candy : Toblerone              ",
+    "id": 7,
+    "price": 1.5,
+    "quantity": 500
+  },
+  {
+    "name": "Candy : Paprika Lays           ",
+    "id": 8,
+    "price": 0.8,
+    "quantity": 500
+  },
+  {
+    "name": "Candy : Muffin                 ",
+    "id": 9,
+    "price": 1.5,
+    "quantity": 500
+  },
+  {
+    "name": "Candy : Winegums               ",
+    "id": 10,
+    "price": 0.5,
+    "quantity": 500
+  }
+]

@@ -1,0 +1,8 @@
+<h2>We have found the following items:</h2>
+<% @inventory.each_with_index do |invent, i| %>
+  <p class="results"><%= invent[:name] %>--- Id: <%= invent[:id] %>--- Price: <%= invent[:price]%> --- Amount: <%= invent[:quantity] %></p
+<% end %>
+
+<br />
+<a href="/navigator">[Index]</a>
+<a href="/navigator/search">[Back]</a>
